@@ -1,8 +1,5 @@
-// import React from 'react';
+import React from 'react';
 
-// export default function() {
-//     return
-//         <div>
-//             Contact Me
-//         </div>;
-// }
+export default function Contact() {
+    return <div>Contact</div>
+}
