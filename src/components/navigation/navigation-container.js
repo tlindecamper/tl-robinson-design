@@ -11,26 +11,28 @@ render() {
     return (
         <div className='nav-wrapper'>
             <div className = 'nav-link-wrapper'>
-                <div className='left-side'>
-                    <i className="fas fa-dragon"></i>
-                </div>
-
-                <div className='right-side'>                    
-                    <NavLink exact to='/' activeClassName='nav-link-active'>
+                <div className='left-side'>                    
+                    <img className= 'logo' src ={"../logo/leta-logo.png"} /> 
+                   
+                    <NavLink className='link'exact to='/' activeClassName='nav-link-active'>
                       Home  
                     </NavLink> 
 
-                    <NavLink to='/about' activeClassName='nav-link-active'>
+                    <NavLink className='link'to='/about' activeClassName='nav-link-active'>
                       About 
                     </NavLink> 
 
-                    <NavLink to='/contact' activeClassName='nav-link-active'>
+                    <NavLink className='link'to='/contact' activeClassName='nav-link-active'>
                       Contact  
-                    </NavLink>  
+                    </NavLink>                     
+                </div>
+
+                <div className='right-side'>                    
+                    
 
                 </div> 
             </div>           
         </div>
-    )
+        )
     } 
 }

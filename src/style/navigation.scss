@@ -1,14 +1,13 @@
-.nav-wrapper {
-    display: flex;
-    justify-content: space-between;
+.nav-wrapper {   
+    height: 190px;      
     padding: 30px;
     font-family: 'Tangerine', cursive;
 }
 
 .nav-link-wrapper {
-    background-color: #F1FAEE;
-    height: 150px;
-    width: 100rem;
+    height: 190px;
+    width: 100%;
+    background-color: #F1FAEE;    
     border-bottom: 1px solid transparent;
     transition: 0.5s ease-in-out;
     margin-left: 30px;
@@ -19,11 +18,27 @@
 
 .left-side {
     display: flex;
-    justify-content: right;
+    justify-content: left;
+    height:190px;
+    width: 50%;
+}    
+
+.left-side-logo {    
+    text-decoration:none;
+    border:0;
+    margin : 0;
+    padding : 0;    
+}
+.logo {
+    width: 50%;
 }
 
 .right-side {
     display:flex;
     justify-content: flex-end;
     margin-right: 5px;
+}
+.link {    
+    margin-top: 15%;
+    margin-left:20%;
 }
