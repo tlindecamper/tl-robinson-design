@@ -42,12 +42,15 @@ export default class ContactForm extends Component {
                         I would love to hear from you.  Please click the below link so I can reach out to you. 
                          Make sure to include your 
                         Name, phone number and email, and a description of what I can help you with. 
-                         I look forward to hearing from you.
+                         I look forward to hearing from you.<br/>                   
+                        Leta Harding<br/>
+                        801-362-3005
                         </p>
                     </div>    
                     <div className="contact-email">
                         <a href="mailto:tlrobinsondesign@gmail.com?subject=I am interested in contacting you">click here to email </a>  
-                    </div>                 
+                        
+                    </div>                        
                 
             </div>
         )
