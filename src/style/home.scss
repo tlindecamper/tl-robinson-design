@@ -4,12 +4,16 @@
 }
 
 .home-page-quote {
-    display: flex;
-    justify-content: center;    
-    font-size: 120%;
+    font-size: 200%;
+    float: left;
+    margin-right: 5px;
+    padding-right: 30px;
+    padding-top: 180px;
 }
 
 .homepagepic {    
+    display:flex;
+    justify-content: right;    
     height: 30%;
     width: 30%;
 }

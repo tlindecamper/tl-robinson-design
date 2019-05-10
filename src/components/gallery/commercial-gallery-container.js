@@ -12,8 +12,8 @@ render() {
 
   const images = [
     {
-      original: 'http://lorempixel.com/800/400/nature/1/',
-      thumbnail: 'http://lorempixel.com/150/50/nature/1/',
+      original: 'assets/commercial-gallery/joe-vera/joe-vera.jpeg',
+      thumbnail: 'assets/commercial-gallery/joe-vera/joe-vera.jpeg',
     },
     {
       original: 'http://lorempixel.com/800/400/nature/2/',
@@ -40,7 +40,7 @@ render() {
                 <ImageGallery items={images} />
 
             <div className='project-name'>
-                Restaraunt
+                Joe Vera's
             </div>                  
                 <ImageGallery items={images} />   
 
