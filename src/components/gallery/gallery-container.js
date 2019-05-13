@@ -13,7 +13,7 @@ render() {
     const images = [
         {
           original: 'http://lorempixel.com/800/400/nature/1/',
-          thumbnail: 'http://lorempixel.com/150/50/nature/1/',
+          thumbnail: 'http://lorempixel.com/150/50/nature/1/'
         },
         {
           original: 'http://lorempixel.com/800/400/nature/2/',
