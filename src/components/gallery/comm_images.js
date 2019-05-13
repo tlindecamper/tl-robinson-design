@@ -2,8 +2,8 @@
 
 const boat = [
     {
-      original: 'assets/commercial-gallery/vanwagonen/vw1tn.jpg',
-      thumbnail: 'assets/commercial-gallery/vanwagonen/vw1tn.jpg'
+      original: 'http://lorempixel.com/800/400/nature/1/',
+      thumbnail: 'http://lorempixel.com/800/400/nature/1/'
     },
     {
       original: 'http://lorempixel.com/800/400/nature/2/',
@@ -17,8 +17,8 @@ const boat = [
 
 const centerfwomen = [
     {
-      original: 'assets/commercial-gallery/vanwagonen/vw1tn.jpg',
-      thumbnail: 'assets/commercial-gallery/vanwagonen/vw1tn.jpg'
+      original: 'http://lorempixel.com/800/400/nature/1/',
+      thumbnail: 'http://lorempixel.com/800/400/nature/1/'
     },
     {
       original: 'http://lorempixel.com/800/400/nature/2/',
@@ -32,8 +32,8 @@ const centerfwomen = [
 
 const joevera = [
     {
-      original: 'assets/commercial-gallery/vanwagonen/vw1tn.jpg',
-      thumbnail: 'assets/commercial-gallery/vanwagonen/vw1tn.jpg'
+      original: 'http://lorempixel.com/800/400/nature/1/',
+      thumbnail: 'http://lorempixel.com/800/400/nature/1/'
     },
     {
       original: 'http://lorempixel.com/800/400/nature/2/',
@@ -47,8 +47,8 @@ const joevera = [
 
 const weddCat = [
     {
-      original: 'assets/commercial-gallery/vanwagonen/vw1tn.jpg',
-      thumbnail: 'assets/commercial-gallery/vanwagonen/vw1tn.jpg'
+      original: 'http://lorempixel.com/800/400/nature/1/',
+      thumbnail: 'http://lorempixel.com/800/400/nature/1/'
     },
     {
       original: 'http://lorempixel.com/800/400/nature/2/',
