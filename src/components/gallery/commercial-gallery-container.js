@@ -15,7 +15,7 @@ render() {
     return(
         
 
-        <div className='project-name-wrapper'  >   
+        <div className='comm-project-name-wrapper'  >   
             <div className='project-name'>
                 Boat Shop
             </div>                  

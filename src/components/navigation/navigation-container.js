@@ -10,10 +10,11 @@ export default class NavigationComponent extends Component {
 render() {
     return (
         <div className='nav-wrapper'>
-            <div className = 'nav-link-wrapper'>
                 <div className='left-side'>                    
                     <img className= 'logo' src ="assets/logo/leta-logo.png" /> 
-                   
+                </div>
+                <div className='right-side'>
+                <div className = 'nav-link-wrapper'>
                     <NavLink className='link'exact to='/' activeClassName='nav-link-active'>
                       Home  
                     </NavLink> 
@@ -33,16 +34,10 @@ render() {
                     <NavLink className='link'to='/contact' activeClassName='nav-link-active'>
                       Contact  
                     </NavLink> 
-
+                </div>
+                </div>
                                   
                 </div>
-
-                <div className='right-side'>                    
-                    
-
-                </div> 
-            </div>           
-        </div>
         )
     } 
 }

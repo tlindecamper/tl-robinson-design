@@ -18,7 +18,7 @@ export default class App extends Component {
       <h1>TL Robinson Design</h1>
        
         <Router>
-          <div>
+          <div className="page-container">
           <NavigationContainer />
             <Switch>  
               <Route exact path='/' component={Home}/>

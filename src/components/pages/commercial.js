@@ -9,8 +9,10 @@ export default function Commercial() {
             </div>    
             <div className="commercial-quote">
                 <h2>Making custom designs to enhance your business</h2>
-            </div>    
+            </div>   
+            <div className="comm-gallery-container">
             <CommercialGalleryContainer />
+            </div> 
         </div>
         );
 }
