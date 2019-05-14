@@ -25,9 +25,9 @@ render() {
         },
         
       ]
-    return(
-        
 
+    return(
+      
         <div className='project-name-wrapper'  >   
             <div className='project-name'>
                 Sundance Home

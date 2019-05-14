@@ -8,7 +8,7 @@ export default function Commercial() {
                 <h1>Commercial Portfolio</h1>
             </div>    
             <div className="commercial-quote">
-                <h2  >Making custom designs to enhance your business</h2>
+                <h2>Making custom designs to enhance your business</h2>
             </div>    
             <CommercialGalleryContainer />
         </div>
