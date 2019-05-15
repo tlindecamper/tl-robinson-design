@@ -19,22 +19,22 @@ render() {
             <div className='com-project-name'>
                 Boat Shop
             </div>                  
-                <ImageGallery items={boat} />
+                <ImageGallery items={boat} alt="custom design"/>
 
-            {/* <div className='project-name'>
+            <div className='com-project-name'>
                 Center for Women and Children in Crisis
             </div>                  
-                <ImageGallery items={centerfwomen} />
+                <ImageGallery items={centerfwomen}alt="custom design" />
 
-            <div className='project-name'>
-                Joe Vera's
+            <div className='com-project-name'>
+                Joe Vera'
             </div>                  
-                <ImageGallery items={joevera} />   
+                <ImageGallery items={joevera} alt="custom design"/>   
 
-            <div className='project-name'>
+            <div className='com-project-name'>
                 Weddings and Catering
             </div>                  
-                <ImageGallery items={weddCat} />           */}
+                <ImageGallery items={weddCat}alt="custom design" />          
 
         </div>        
         )

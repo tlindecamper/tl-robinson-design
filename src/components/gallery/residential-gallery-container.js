@@ -15,24 +15,24 @@ render() {
             <div className='res-project-name'>            
                 Florida Vacation Home
             </div>                  
-                <ImageGallery items={florida} />
+                <ImageGallery items={florida} alt="custom design"/>
 
-            <div className='project-name'>
+            <div className='res-project-name'>
                 Starr Sundance Home
             </div>                  
                 <ImageGallery items={starrSunHome} />
 
-            <div className='project-name'>
+            <div className='res-project-name'>
                 Trieste Sundance Home
             </div>                  
-                <ImageGallery items={triesteSunHome} />   
+                <ImageGallery items={triesteSunHome} alt="custom fabrics and refurbished furniture"/>   
 
-            <div className='project-name'>
+            <div className='res-project-name'>
                 VanWagonen Sundance Home
             </div>                  
-                <ImageGallery items={vanSunHome} />
+                <ImageGallery items={vanSunHome}alt="custom landscaping" />
 
-            <div className='project-name'>
+            <div className='res-project-name'>
                 Vivian Park Home
             </div>                  
                 <ImageGallery items={vivianParkHome} />            

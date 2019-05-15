@@ -52,7 +52,7 @@ export default class ContactForm extends Component {
                                               
                     </div>    
                     <div className="contact-pic"> 
-                        <img src="https://images.unsplash.com/photo-1467043153537-a4fba2cd39ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"/>  
+                        
                     </div>                    
                 
             </div>
