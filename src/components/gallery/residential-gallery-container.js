@@ -12,7 +12,7 @@ render() {
     return(
 
         <div className='project-name-wrapper'  >         
-            <div className='project-name'>            
+            <div className='res-project-name'>            
                 Florida Vacation Home
             </div>                  
                 <ImageGallery items={florida} />

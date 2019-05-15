@@ -1,0 +1,32 @@
+.contact-form-wrapper {    
+    padding: 30px;
+    font-family: 'Tangerine', cursive;
+    height: 150px;
+    width: 100%;
+
+    .contact-form {
+        display:flex;
+        justify-content: center;
+        align-items: center;
+          
+    }
+
+    .contact-phrase {
+        display: flex;
+        align-items: center;
+        font-size: 2rem;
+    }
+
+    .contact-email {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 2em;
+    }
+
+    .contact-pic {
+        display:flex;
+        justify-content: center;
+        align-items: center;    
+    }
+}

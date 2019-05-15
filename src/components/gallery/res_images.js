@@ -1,78 +1,111 @@
 const florida = [
     {
-      original: 'assets/commercial-gallery/vanwagonen/vw1tn.jpg',
-      thumbnail: 'assets/commercial-gallery/vanwagonen/vw1tn.jpg'
+      original: 'assets/residential-gallery/florida/flo1.jpg',
+      thumbnail: 'assets/residential-gallery/florida/flo1.jpg'
     },
     {
-      original: 'http://lorempixel.com/800/400/nature/2/',
-      thumbnail: 'http://lorempixel.com/150/50/nature/2/'
+      original: 'assets/residential-gallery/florida/flo2.jpg',      
+      thumbnail: 'assets/residential-gallery/florida/flo2.jpg'
     },
     {
-      original: 'http://lorempixel.com/800/400/nature/3/',
-      thumbnail: 'http://lorempixel.com/150/50/nature/3/'
+      original: 'assets/residential-gallery/florida/flo3.jpg',
+      thumbnail: 'assets/residential-gallery/florida/flo3.jpg'
+    },  
+    {
+      original: 'assets/residential-gallery/florida/flo4.jpg',
+      thumbnail: 'assets/residential-gallery/florida/flo4.jpg'
+    },
+    
+    {
+      original: 'assets/residential-gallery/florida/flo6.jpg',
+      thumbnail: 'assets/residential-gallery/florida/flo6.jpg'
     },        
+    {
+      original: 'assets/residential-gallery/florida/flo7.jpg',
+      thumbnail: 'assets/residential-gallery/florida/flo7.jpg'
+    },
+    {
+      original: 'assets/residential-gallery/florida/flo8.jpg',
+      thumbnail: 'assets/residential-gallery/florida/flo8.jpg'
+    },
+    {
+      original: 'assets/residential-gallery/florida/flo9.jpg',
+      thumbnail: 'assets/residential-gallery/florida/flo9.jpg'
+    },        
+    {
+      original: 'assets/residential-gallery/florida/flo10.jpg',
+      thumbnail: 'assets/residential-gallery/florida/flo10.jpg'
+    },
+    {
+      original: 'assets/residential-gallery/florida/flo11.jpg',
+      thumbnail: 'assets/residential-gallery/florida/flo11.jpg'
+    },
+    {
+      original: 'assets/residential-gallery/florida/flor1.jpg',
+      thumbnail: 'assets/residential-gallery/florida/flor1.jpg'
+    },              
 ]
 
 const starrSunHome = [
-    {
-        original: 'assets/commercial-gallery/starr/vw3.jpg',
-        thumbnail: 'assets/commercial-gallery/starr/vw3.jpg'
-    },
-    {
-        original: 'http://lorempixel.com/800/400/nature/2/',
-        thumbnail: 'http://lorempixel.com/150/50/nature/2/'
-    },
-    {
-        original: 'http://lorempixel.com/800/400/nature/3/',
-        thumbnail: 'http://lorempixel.com/150/50/nature/3/'
-    },
-        
+  {
+      original: 'http://lorempixel.com/800/400/nature/1/',
+      thumbnail: 'http://lorempixel.com/800/400/nature/1'
+  },
+  {
+      original: 'http://lorempixel.com/800/400/nature/2/',
+      thumbnail: 'http://lorempixel.com/150/50/nature/2/'
+  },
+  {
+      original: 'http://lorempixel.com/800/400/nature/3/',
+      thumbnail: 'http://lorempixel.com/150/50/nature/3/'
+  },
+      
 ]
 const triesteSunHome = [
-    {
-        original: 'http://lorempixel.com/800/400/nature/1/',
-        thumbnail: 'http://lorempixel.com/150/50/nature/1/'
-    },
-    {
-        original: 'http://lorempixel.com/800/400/nature/2/',
-        thumbnail: 'http://lorempixel.com/150/50/nature/2/'
-    },
-    {
-        original: 'http://lorempixel.com/800/400/nature/3/',
-        thumbnail: 'http://lorempixel.com/150/50/nature/3/'
-    },
-        
+  {
+      original: 'http://lorempixel.com/800/400/nature/1/',
+      thumbnail: 'http://lorempixel.com/150/50/nature/1/'
+  },
+  {
+      original: 'http://lorempixel.com/800/400/nature/2/',
+      thumbnail: 'http://lorempixel.com/150/50/nature/2/'
+  },
+  {
+      original: 'http://lorempixel.com/800/400/nature/3/',
+      thumbnail: 'http://lorempixel.com/150/50/nature/3/'
+  },
+      
 ]
 
 const vanSunHome = [
-    {
-        original: '/assets/commercial-gallery/vanwagonen/vw1tn.jpg',
-        thumbnail: '/assets/commercial-gallery/vanwagonen/vw1tn.jpg'
-    },
-    {
-        original: 'http://lorempixel.com/800/400/nature/2/',
-        thumbnail: 'http://lorempixel.com/150/50/nature/2/'
-    },
-    {
-        original: 'http://lorempixel.com/800/400/nature/3/',
-        thumbnail: 'http://lorempixel.com/150/50/nature/3/'
-    },
-        
+  {
+    original: 'http://lorempixel.com/800/400/nature/1/',
+    thumbnail: 'http://lorempixel.com/150/50/nature/1/'
+  },
+  {
+      original: 'http://lorempixel.com/800/400/nature/2/',
+      thumbnail: 'http://lorempixel.com/150/50/nature/2/'
+  },
+  {
+      original: 'http://lorempixel.com/800/400/nature/3/',
+      thumbnail: 'http://lorempixel.com/150/50/nature/3/'
+  },
+      
 ]
 const vivianParkHome = [
-    {
-        original: 'assets/commercial-gallery/vanwagonen/vw1tn.jpg',
-        thumbnail: 'assets/commercial-gallery/vanwagonen/vw1tn.jpg'
-    },
-    {
-        original: 'http://lorempixel.com/800/400/nature/2/',
-        thumbnail: 'http://lorempixel.com/150/50/nature/2/'
-    },
-    {
-        original: 'http://lorempixel.com/800/400/nature/3/',
-        thumbnail: 'http://lorempixel.com/150/50/nature/3/'
-    },
-        
+  {
+      original: 'http://lorempixel.com/800/400/nature/1/',
+      thumbnail: 'http://lorempixel.com/150/50/nature/1/'
+  },
+  {
+      original: 'http://lorempixel.com/800/400/nature/2/',
+      thumbnail: 'http://lorempixel.com/150/50/nature/2/'
+  },
+  {
+      original: 'http://lorempixel.com/800/400/nature/3/',
+      thumbnail: 'http://lorempixel.com/150/50/nature/3/'
+  },
+      
 ]
 
 

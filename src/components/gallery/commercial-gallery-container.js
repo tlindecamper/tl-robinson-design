@@ -16,12 +16,12 @@ render() {
         
 
         <div className='comm-project-name-wrapper'  >   
-            <div className='project-name'>
+            <div className='com-project-name'>
                 Boat Shop
             </div>                  
                 <ImageGallery items={boat} />
 
-            <div className='project-name'>
+            {/* <div className='project-name'>
                 Center for Women and Children in Crisis
             </div>                  
                 <ImageGallery items={centerfwomen} />
@@ -34,7 +34,7 @@ render() {
             <div className='project-name'>
                 Weddings and Catering
             </div>                  
-                <ImageGallery items={weddCat} />          
+                <ImageGallery items={weddCat} />           */}
 
         </div>        
         )

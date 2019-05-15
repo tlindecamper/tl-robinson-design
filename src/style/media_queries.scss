@@ -54,36 +54,30 @@
             align-items: center;
             margin-top: 1px;
             margin-bottom: 1px;  
-            font-size: 7px;               
-            .homepagepic {
-                display: flex;
-                flex-direction: column;              
-                margin-top: 1px;
-                margin-bottom: 1px;  
-                height: 250px;
-                width: 250px;        
-            }
+            font-size: 7px; 
             .home-page-quote {    
-                font-size: 200%;
-                float: left;
-                margin-right: 5px;
-                padding-right: 30px;
-                padding-top: 180px;
-            }
-    }
+                display:flex;
+                flex-direction: column;
+                justify-content: center;
+                .quote {
+                    display: flex;
+                    flex-direction: center;
+                }                               
+            .homepagepic {
+                display:flex;
+                flex-direction: column;
+                justify-content: center; 
+                align-items: center;                                          
+                height: 190px;
+                width: 30%;        
+            
+                }   
+            
+            }   
 
-    .commercial-header-wrapper{
-        
-        .comm-project-name-wrapper {
-            display: flex;         
-            flex-direction: column;  
-            justify-content: center;             
-            align-items: center;     
-            margin-top: 1px;
-            margin-right: 4rem;
-            margin-left: 4rem; 
         }
 
+    .commercial-header-wrapper{
         .commercial-header {
             display: flex;         
             flex-direction: column;  
@@ -102,9 +96,39 @@
             margin-bottom: 1px;  
             font-size: 7px;          
         }
+      }   
+    .residential-header-wrapper {
+        .residential-header {
+          display: flex;
+          justify-content: center;
+          font-size: 20px;
+        }
+        .residential-quote {
+          display: flex;
+          justify-content: center;
+          font-size: 20px;
+        } 
+      }  
+    .contact-form-wrapper {
+        .contact-form {
+          display: flex;
+          justify-content: center;
+          font-size: 20px;    
+        }
+        .contact-phrase {
+          display: flex;
+          justify-content: center;
+          font-size: 15px;
+        }
+        .contact-email {
+          display: flex;
+          justify-content: center;   
+        }
+        .contact-pic {            
+            height: 190px;
+            width: 30%; 
+        }
+    }   
     }
-
-   
-}
-    }
+ }
 }

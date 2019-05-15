@@ -4,6 +4,7 @@ import ContactForm from '../contact/contact-form';
 export default function Contact() {
     return (
         <div>
+            
             <ContactForm />
         </div>
     
