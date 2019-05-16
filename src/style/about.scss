@@ -1,0 +1,26 @@
+.about-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+
+   .about-header {
+        height: 50px;
+        width: 95%;
+        text-align: center;
+        font-size: 2.4rem;           
+    }  
+    
+    .mission-statement {
+        text-align: center;
+        font-size: 15px;
+        padding-right: 40px;
+        padding-left: 40px;
+        margin-top: 40px;
+    }
+   
+    .services {
+        text-align: center;
+        font-size: 15px;
+    }
+  }  
+    

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import ImageGallery from 'react-image-gallery'
-import { florida, starrSunHome,triesteSunHome, vanSunHome, vivianParkHome } from "./res_images";
+import { florida, starrSunHome,triesteSunHome, vanSunHome, vivianParkHome, boydSunHome } from "./res_images";
 
 export default class ResidentialGalleryContainer extends Component {
     
@@ -35,7 +35,11 @@ render() {
             <div className='res-project-name'>
                 Vivian Park Home
             </div>                  
-                <ImageGallery items={vivianParkHome} />            
+                <ImageGallery items={vivianParkHome} />      
+            <div className='res-project-name'>
+                Boyd Sundance Home
+            </div>                  
+                <ImageGallery items={boydSunHome} />                 
         </div>        
         )
     }    

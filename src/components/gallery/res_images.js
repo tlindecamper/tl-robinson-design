@@ -132,9 +132,41 @@ const vivianParkHome = [
       original: 'http://lorempixel.com/800/400/nature/3/',
       thumbnail: 'http://lorempixel.com/150/50/nature/3/'
   },
+]
       
+const boydSunHome = [
+  {
+      original: 'assets/residential-gallery/b_sundance/bsun1.jpg',
+      thumbnail: 'assets/residential-gallery/b_sundance/bsun1.jpg'
+  },
+  {
+      original: 'assets/residential-gallery/b_sundance/bsun5.jpg',
+      thumbnail: 'assets/residential-gallery/b_sundance/bsun5.jpg'
+  },
+  {
+      original: 'assets/residential-gallery/b_sundance/bsun6.jpg',
+      thumbnail: 'assets/residential-gallery/b_sundance/bsun6.jpg'
+  },
+
+  {
+      original: 'assets/residential-gallery/b_sundance/bsun7.jpg',
+      thumbnail: 'assets/residential-gallery/b_sundance/bsun7.jpg'
+  },
+  {
+      original: 'assets/residential-gallery/b_sundance/bsun8.jpg',
+      thumbnail: 'assets/residential-gallery/b_sundance/bsun8.jpg'
+  },
+  {
+      original: 'assets/residential-gallery/b_sundance/bsun9.jpg',
+      thumbnail: 'assets/residential-gallery/b_sundance/bsun9.jpg'
+  },
+  {
+    original: 'assets/residential-gallery/b_sundance/bsun10.jpg',
+    thumbnail: 'assets/residential-gallery/b_sundance/bsun10.jpg'
+},
+            
 ]
 
 
 
-export { florida, starrSunHome, triesteSunHome, vanSunHome, vivianParkHome}
+export { florida, starrSunHome, triesteSunHome, vanSunHome, vivianParkHome, boydSunHome}

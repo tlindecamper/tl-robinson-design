@@ -35,17 +35,17 @@ export default class ContactForm extends Component {
         return (
             <div className="contact-form-wrapper">
                 <div className="contact-form">
-                    <h1>Contact me</h1>
+                    <h1>Contact Us</h1> 
                 </div>
-                    <div className="contact-phrase">
-                        <p>
+                    <div >
+                        <h1 className="contact-phrase">
                         I would love to hear from you.  Please click the below link so I can reach out to you. 
                          Make sure to include your 
                         Name, phone number and email, and a description of what I can help you with. 
                          I look forward to hearing from you.<br/>                   
                         Leta Harding<br/>
                         801-362-3005
-                        </p>
+                        </h1>
                     </div>    
                     <div className="contact-email">
                         <a href="mailto:tlrobinsondesign@gmail.com?subject=I am interested in contacting you">click here to email </a>  
