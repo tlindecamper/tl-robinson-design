@@ -1,14 +1,13 @@
 .page-container{
-    margin-right: 20px;
-    margin-left: 10px;
+   
     
 .nav-wrapper {   
     display: flex;
     justify-content: space-between;
     height: 190px;    
-    width: 98vw;  
+    width: 75vw;  
     font-family: 'Tangerine', cursive;
-    background-color: #F1FAEE;        
+    // background-color: #F1FAEE;        
     transition: 0.5s ease-in-out;    
     text-transform: uppercase;
     font-size: 1.8rem;
@@ -28,11 +27,15 @@
     align-items: center;
     justify-content: space-around;
     height: 100%;
-    width: 100%;
+    width: 65%;
      
-    .nav-link-wrapper {
-        
-        .link {    
+    .nav-link-wrapper {    
+        a {
+            text-decoration: none;
+            cursor: pointer;
+            color:black;         
+        }
+        .link {           
         margin-top: 15%;
         margin-left:10%;
         }   

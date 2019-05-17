@@ -1,12 +1,7 @@
 html {
     font-size: 62.5%; // 1rem is 10px
-   
 }
 
-a {
-    text-decoration: none;
-    cursor: pointer;
-}
 
 *,
 *::after,
@@ -30,8 +25,9 @@ body {
 .app {
     margin-top: 2rem;
     margin-right: 4rem;
+    margin-left: 2rem;
     display: grid;
     justify-items: center;
-    background-color: transparent;
+    background-color:#f2f4f7;
 }
 
