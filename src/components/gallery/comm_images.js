@@ -21,7 +21,29 @@ const boat = [
       original: 'assets/commercial-gallery/utah-marine-boat/boat6.jpg',
       thumbnail: 'assets/commercial-gallery/utah-marine-boat/boat6.jpg'
     },     
-]
+  ]
+const carDealer = [
+    {
+      original: 'assets/commercial-gallery/cardealer/mits1.jpg',
+      thumbnail: 'assets/commercial-gallery/cardealer/mits1.jpg'
+    },
+    {
+      original: 'assets/commercial-gallery/cardealer/mits2.jpg',
+      thumbnail: 'assets/commercial-gallery/cardealer/mits2.jpg'
+    },
+    {
+      original: 'assets/commercial-gallery/cardealer/mits3.jpg',
+      thumbnail: 'assets/commercial-gallery/cardealer/mits3.jpg'
+    },  
+    {
+      original: 'assets/commercial-gallery/cardealer/mits4.jpg',
+      thumbnail: 'assets/commercial-gallery/cardealer/mits4.jpg'
+    },
+    {
+      original: 'assets/commercial-gallery/cardealer/mits5.jpg',
+      thumbnail: 'assets/commercial-gallery/cardealer/mits5.jpg'
+    },          
+  ]
 
 const centerfwomen = [
     {
@@ -69,4 +91,4 @@ const weddCat = [
 ]
 
 
-export { boat, centerfwomen, joevera, weddCat }
+export { boat, centerfwomen, joevera, weddCat, carDealer }

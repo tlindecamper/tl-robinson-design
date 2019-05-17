@@ -15,7 +15,7 @@ render() {
             <div className='res-project-name'>            
                 Florida Vacation Home
             </div>                  
-                <ImageGallery items={florida} alt="custom design"/>
+                <ImageGallery items={florida} alt="custom fabrics taken from a specific style of Designer "/>
 
             <div className='res-project-name'>
                 Starr Sundance Home
@@ -35,11 +35,11 @@ render() {
             <div className='res-project-name'>
                 Vivian Park Home
             </div>                  
-                <ImageGallery items={vivianParkHome} />      
+                <ImageGallery items={vivianParkHome}alt="custom fabrics and upholstery " />      
             <div className='res-project-name'>
                 Boyd Sundance Home
             </div>                  
-                <ImageGallery items={boydSunHome} />                 
+                <ImageGallery items={boydSunHome} alt="custom refurbishing " />                 
         </div>        
         )
     }    
