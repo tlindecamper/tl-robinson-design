@@ -11,7 +11,7 @@ render() {
   
     return(
 
-        <div className='project-name-wrapper'  >         
+        <div className='res-project-name-wrapper'  >         
             <div className='res-project-name'>            
                 Florida Vacation Home
             </div>                  

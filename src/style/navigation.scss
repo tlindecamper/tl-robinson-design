@@ -1,6 +1,4 @@
-.page-container{
-   
-    
+  
 .nav-wrapper {   
     display: flex;
     justify-content: space-between;
@@ -15,7 +13,7 @@
     border-color: grey;   
     margin-bottom: 55px;
         .left-side { 
-        width: 15%;
+        width: 15vw;
             .logo {
                 height: 190px;
                 width: 200px;
@@ -27,20 +25,23 @@
     align-items: center;
     justify-content: space-around;
     height: 100%;
-    width: 65%;
+    width: 85vw;
      
     .nav-link-wrapper {    
         a {
             text-decoration: none;
             cursor: pointer;
-            color:black;         
+            color:black;  
+            margin-top: 15%;
+            margin-left:10%; 
+            margin-right:-5%;      
         }
-        .link {           
-        margin-top: 15%;
-        margin-left:10%;
-        }   
+        // .link {           
+        // margin-top: 15%;
+        // margin-left:10%;
+        // }   
     }
 }
 }
-}
+
    
