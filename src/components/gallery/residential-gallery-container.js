@@ -32,10 +32,10 @@ render() {
             </div>                  
                 <ImageGallery items={vanSunHome}alt="custom landscaping" />
 
-            <div className='res-project-name'>
+            {/* <div className='res-project-name'>
                 Vivian Park Home
             </div>                  
-                <ImageGallery items={vivianParkHome}alt="custom fabrics and upholstery " />      
+                <ImageGallery items={vivianParkHome}alt="custom fabrics and upholstery " />       */}
             <div className='res-project-name'>
                 Boyd Sundance Home
             </div>                  

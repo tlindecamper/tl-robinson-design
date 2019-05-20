@@ -51,8 +51,7 @@ export default class ContactForm extends Component {
                         <a href="mailto:tlrobinsondesign@gmail.com?subject=I am interested in contacting you">click here to email </a>  
                                               
                     </div>    
-                    <div className="contact-pic"> 
-                        
+                    <div className="contact-pic">                         
                     </div>                    
                 
             </div>

@@ -21,20 +21,20 @@ render() {
             </div>                  
                 <ImageGallery items={boat} alt="custom design custom artwork"/>
 
-            <div className='com-project-name'>
+            {/* <div className='com-project-name'>
                 Center for Women and Children in Crisis
             </div>                  
-                <ImageGallery items={centerfwomen}alt="custom design space management" />
+                <ImageGallery items={centerfwomen}alt="custom design space management" /> */}
 
             <div className='com-project-name'>
                 Joe Vera'
             </div>                  
                 <ImageGallery items={joevera} alt="custom design"/>   
 
-            <div className='com-project-name'>
+            {/* <div className='com-project-name'>
                 Weddings and Catering
             </div>                  
-                <ImageGallery items={weddCat}alt="custom design" />    
+                <ImageGallery items={weddCat}alt="custom design" />     */}
 
             <div className='com-project-name'>            
                 Car Dealership
