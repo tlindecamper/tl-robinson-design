@@ -22,7 +22,7 @@ render() {
             </div>                  
                 <ImageGallery items={starrSunHome} />
 
-            <div className='res-project-name'>
+            <div className='res-project-name' alt="custom fabrics and refinished furniture, native gardening">
                 Trieste Sundance Home
             </div>                  
                 <ImageGallery items={triesteSunHome} alt="custom fabrics and refurbished furniture"/>   

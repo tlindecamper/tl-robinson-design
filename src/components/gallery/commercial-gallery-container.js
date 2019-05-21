@@ -31,17 +31,17 @@ render() {
             <div className='com-project-name'>
                 Joe Vera's
             </div>                  
-                <ImageGallery items={joevera} alt="custom design"/>   
+                <ImageGallery items={joevera} alt="custom design and seasonal decorating"/>   
 
             <div className='com-project-name'>
                 Weddings and Catering
             </div>                  
-                <ImageGallery items={weddCat}alt="custom design" />    
+                <ImageGallery items={weddCat}alt="custom design " />    
 
             <div className='com-project-name'>            
                 Car Dealership
             </div>                  
-                <ImageGallery items={carDealer}alt="custom art work" />       
+                <ImageGallery items={carDealer}alt="custom art work unique decorating" />       
         </div>        
         )
     }    
