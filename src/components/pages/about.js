@@ -8,7 +8,7 @@ export default function About() {
             </div> 
             
                 <h1  className="mission-statement">I want to earn my living by doing quality design work in a way that will serve my Client and Myself by
-                     assisiting them in developing the full potential of their surroundings through beauty, balance and individual uniqueness.</h1>
+                     assisting them in developing the full potential of their surroundings through beauty, balance and individual uniqueness.</h1>
              
 
                 <img className="about-pic"   src="assets/residential-gallery/vwsundance/vw2.jpg" />
