@@ -16,6 +16,8 @@ render() {
         
 
         <div className='comm-project-name-wrapper'  >   
+
+            
             <div className='com-project-name'>
                 Boat Shop
             </div>                  
@@ -27,14 +29,14 @@ render() {
                 <ImageGallery items={centerfwomen}alt="custom design space management" /> */}
 
             <div className='com-project-name'>
-                Joe Vera'
+                Joe Vera's
             </div>                  
                 <ImageGallery items={joevera} alt="custom design"/>   
 
-            {/* <div className='com-project-name'>
+            <div className='com-project-name'>
                 Weddings and Catering
             </div>                  
-                <ImageGallery items={weddCat}alt="custom design" />     */}
+                <ImageGallery items={weddCat}alt="custom design" />    
 
             <div className='com-project-name'>            
                 Car Dealership

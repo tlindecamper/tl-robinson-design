@@ -39,9 +39,9 @@ export default class ContactForm extends Component {
                 </div>
                     <div >
                         <h1 className="contact-phrase">
-                        I would love to hear from you.  Please click the below link so I can reach out to you. 
+                        I would love to hear from you.  Please click the link below so I can reach out to you. 
                          Make sure to include your 
-                        Name, phone number and email, and a description of what I can help you with. 
+                        Name, Phone Number and Email, along with a description of your project. 
                          I look forward to hearing from you.<br/>                   
                         Leta Harding<br/>
                         801-362-3005

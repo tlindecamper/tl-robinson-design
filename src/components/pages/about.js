@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function About() {
     return(
-        <div className='about-wrapper'>     
+    <div className='about-wrapper'>     
             <div className="about-header">
                 <h1 >About Us</h1>
             </div> 
@@ -15,10 +15,11 @@ export default function About() {
             
                 <h2  className="services" >We provide many services to meet all of your needs. <br/> 
                     Custom Drapery and Upholstery<br/> 
-                    Unique Decorating for Home or Business <br/> 
+                    Uniqe yet functional Design Ideas for Home or Business <br/> 
                     Seasonal Decorating<br/> 
                     Custom Landscaping, Native Landscaping and Maintenance<br/> 
-                    Re-Furbishing Furniture and Finishing Projects
+                    Re-Furbishing Furniture and Finishing Projects<br/>
+                    Immediate to Long Range Planning
 
                 </h2>
             

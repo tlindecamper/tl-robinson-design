@@ -62,31 +62,35 @@ const centerfwomen = [
 
 const joevera = [
     {
-      original: 'http://lorempixel.com/800/400/nature/1/',
-      thumbnail: 'http://lorempixel.com/800/400/nature/1/'
+      original: 'assets/commercial-gallery/joe-vera/jv1.jpg',
+      thumbnail: 'assets/commercial-gallery/joe-vera/jv1.jpg'
     },
     {
-      original: 'http://lorempixel.com/800/400/nature/2/',
-      thumbnail: 'http://lorempixel.com/150/50/nature/2/'
+      original: 'assets/commercial-gallery/joe-vera/jv2.jpg',
+      thumbnail: 'assets/commercial-gallery/joe-vera/jv2.jpg'
     },
     {
-      original: 'http://lorempixel.com/800/400/nature/3/',
-      thumbnail: 'http://lorempixel.com/150/50/nature/3/'
+      original: 'assets/commercial-gallery/joe-vera/jv3.jpg',
+      thumbnail: 'assets/commercial-gallery/joe-vera/jv3.jpg'
+    },  
+    {
+      original: 'assets/commercial-gallery/joe-vera/jv4.jpg',
+      thumbnail: 'assets/commercial-gallery/joe-vera/jv4.jpg'
     },        
 ]
 
 const weddCat = [
     {
-      original: 'http://lorempixel.com/800/400/nature/1/',
-      thumbnail: 'http://lorempixel.com/800/400/nature/1/'
+      original: 'assets/commercial-gallery/wedding/wd2.jpg',
+      thumbnail: 'assets/commercial-gallery/wedding/wd2.jpg'
     },
     {
-      original: 'http://lorempixel.com/800/400/nature/2/',
-      thumbnail: 'http://lorempixel.com/150/50/nature/2/'
+      original: 'assets/commercial-gallery/wedding/wed1.jpg',
+      thumbnail: 'assets/commercial-gallery/wedding/wed1.jpg'
     },
     {
-      original: 'http://lorempixel.com/800/400/nature/3/',
-      thumbnail: 'http://lorempixel.com/150/50/nature/3/'
+      original: 'assets/commercial-gallery/wedding/wed3.jpg',
+      thumbnail: 'assets/commercial-gallery/wedding/wed3.jpg'
     },        
 ]
 

@@ -8,7 +8,7 @@ export default function Residential() {
                 <h1>Residential Portfolio</h1>
             </div>    
             <div className="residential-quote">
-                <h2 >A home isn't a home without comfort</h2>
+                <h2 >Function first, then add the spark of design</h2>
             </div>            
             <ResidentialGalleryContainer />
         </div>
