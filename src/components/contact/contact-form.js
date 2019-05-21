@@ -44,7 +44,7 @@ export default class ContactForm extends Component {
                         Name, Phone Number and Email, along with a description of your project. 
                          I look forward to hearing from you.<br/>                   
                         Leta Harding<br/>
-                        801-362-3005
+                        801-362-5661
                         </h1>
                     </div>    
                     <div className="contact-email">
