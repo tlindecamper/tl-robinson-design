@@ -4,7 +4,8 @@
     align-items: center;
     .home-page-quote {    
         display:flex;
-        flex-direction: column;        
+        flex-direction: column;  
+        width: 90vw;      
         .quote {
             padding-left: 5px;
             margin: 0 15px 0 0;
