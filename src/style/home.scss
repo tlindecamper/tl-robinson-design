@@ -2,6 +2,7 @@
     width: 90vw; 
     display: flex;
     align-items: center;
+    margin-bottom: 140px;
     .home-page-quote {    
         display:flex;
         flex-direction: column;  
@@ -21,8 +22,9 @@
     }  
        
     .homepagepic {    
-        height: 30%;
-        width: 20%;
+        height: 50%;
+        width: 40%;
         margin: 0 30px 40px 0;
+        
     }
 }

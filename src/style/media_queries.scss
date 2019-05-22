@@ -60,12 +60,12 @@
                 flex-direction: column;  
                 justify-content: center;             
                 align-items: center;                
-                width: 90%;
+                width: 85%;
               }                           
                 
               .homepagepic {                                                 
                   height: 190px;
-                  width: 30vw;   
+                  width: 60vw;   
                   margin-top: 15px;     
                 }    
           }
@@ -145,11 +145,19 @@
               font-size: 15px;
             }     
             .about-pic { 
-                display: flex;
-                justify-content: center;           
-                height: 190px;
+                display: flex;                
+                flex-direction: column; 
+                                
+              .pic-one {         
+                height: 190px;  
                 width: 60vw;
-                
+              }    
+              .pic-two {   
+                           
+                height: 190px;
+                width: 30vw;
+                margin-left: 100px;
+              }  
             }
             .services {              
               justify-content: center;   
@@ -172,6 +180,21 @@
             .contact-email {
               display: flex;
               justify-content: center;   
+            }
+            .contact-pic {
+              .pic-one{
+                height: 190px;
+                width: 30%;
+              }
+              .pic-two {
+                height: 190px;
+                width: 30%;
+              }
+              .pic-three {
+                height: 190px;
+                width: 60%;
+              }
+
             }
             
         }   

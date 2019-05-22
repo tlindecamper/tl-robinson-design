@@ -34,6 +34,7 @@ export default class ContactForm extends Component {
     render() {
         return (
             <div className="contact-form-wrapper">
+                        
                 <div className="contact-form">
                     <h1>Contact Us</h1> 
                 </div>
@@ -49,10 +50,13 @@ export default class ContactForm extends Component {
                     </div>    
                     <div className="contact-email">
                         <a  href="mailto:tlrobinsondesign@gmail.com?subject=I am interested in a consultation">click here to email </a>  
-                                              
-                    </div>    
-                    <div className="contact-pic">                         
-                    </div>                    
+                    </div>   
+                    <div className="contact-pic">
+                        <img className="pic-one" src="assets/contact/img054.jpg" alt="custom floral arrangements"/>      
+                        <img className="pic-two" src="assets/contact/img053.jpg" alt="custom floral arrangements"/> 
+                        <img className="pic-three" src="assets/contact/IMG_0127.JPG" alt="custom floral arrangements"/>                   
+                    </div>  
+              
                 
             </div>
         )
